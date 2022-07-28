@@ -1,0 +1,24 @@
+codage:https://www.youtube.com/watch?v=ekBHA0CtQZ0&list=PL0155KX-QB_Tsxia5SLJ0-kzaS77GWa1T&index=19
+
+fitness functuon:
+with constraint:https://www.youtube.com/watch?v=esGZtl3gIlY
+
+no-constraint:
+
+
+les operateurs:
+--------------
+
+selections:https://www.youtube.com/watch?v=ncwjqmji7aw&list=PL0155KX-QB_Tsxia5SLJ0-kzaS77GWa1T&index=20
+
+croisement:https://www.youtube.com/watch?v=ptd5DA-GUVs&list=PL0155KX-QB_Tsxia5SLJ0-kzaS77GWa1T&index=21
+
+
+library o solve optimization problems:https://www.youtube.com/watch?v=ufYtueq2DCw&t=79s
+
+https://www.youtube.com/watch?v=1e5rWOZrdcU
+https://www.youtube.com/watch?v=i3pw4JVKVN8
+
+https://hackernoon.com/genetic-algorithms-explained-a-python-implementation-sd4w374i
+
+https://www.kaggle.com/aaawnrahman/genetic-algorithm
